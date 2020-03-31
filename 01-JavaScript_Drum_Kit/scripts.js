@@ -8,7 +8,6 @@ function playSound(e) {
     const instrument = document.querySelector(`g[data-key="${e.keyCode}"]`);
     const key = document.querySelector(`div[data-key="${e.keyCode}"]`);
 
-    console.log(key);
     if (!audio) return;
 
     instrument.classList.add('playing');
@@ -17,9 +16,9 @@ function playSound(e) {
     audio.play();
 }
 
+const keys = Array.from(document.querySelectorAll('.key'));
 const instrument = Array.from(document.querySelectorAll('.instrument'));
 instrument.forEach(key => key.addEventListener('transitionend', removeTransition));
-
-const keys = Array.from(document.querySelectorAll('.key'));
 keys.forEach(key => key.addEventListener('transitionend', removeTransition));
+
 window.addEventListener('keydown', playSound);
