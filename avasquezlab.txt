@@ -1,0 +1,14 @@
+<span id="a">avasquezlab@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> cat JavaScript30.txt<br/><br/>
+Hi, I'm Andrés Vásquez .
+<p>I am currently an engineering student at the <a href="https://www.udea.edu.co">University of Antioquia</a>.</p>
+<p>I'm the founder and CEO of <a href="https://www.anvargear.co">AnvarGear.CO</a>.</p>
+<p>And in this quarantine by Covid-19, in the #CodexUdeA community we have accepted to perform the JavaScript30 challenge ... And this is my advance.</p>
+
+<span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> ls -la challenges<br/><br/>
+
+drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 01 00:06 <a href="https://vasquezlab.github.io/JavaScript30/01-JavaScript_Drum_Kit/">Day 1: JavaScript Drum Kit</a>
+
+
+<span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> cat twitter.txt && cat GitHub<br/><br/>
+
+ <a href="https://twitter.com/avasquezco">@AvasquezCo</a> || <a href="https://github.com/VasquezLab">GitHub Repo (VasquezLab)</a>
