@@ -7,6 +7,7 @@ Hi, I'm Andrés Vásquez .
 <span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> ls -la challenges<br/><br/>
 
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 01 00:06 <a href="01-JavaScript_Drum_Kit/">Day 1: JavaScript Drum Kit</a>
+drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 02 07:30 <a href="02-js-and-css-clock/">Day 2: JavaScript & CSS Clock</a>
 
 
 <span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> cat twitter.txt && cat GitHub.txt<br/><br/>
