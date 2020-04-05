@@ -1,0 +1,33 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    position: absolute;
+    width: 700px;
+    height: 250px;
+    top: 50%;
+    left: 50%;
+    margin-top: -170px; /* negative number 1/2 height, increased it a bit to push it upwards */
+    margin-left: -350px; /* negative number 1/2 width */
+}
+
+.main h1 {
+    font-size: 60px;
+    font-weight: 100;
+}
+
+#devtools-state {
+    margin: 20px 0 18px 0;
+    font-size: 100px;
+    font-weight: 200;
+}
+
+#devtools-orientation {
+    margin-bottom: 40px;
+    font-size: 28px;
+    height: 28px;
+    font-weight: 100;
+}

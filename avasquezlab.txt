@@ -1,14 +1,14 @@
 <span id="a">avasquezlab@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> cat JavaScript30.txt<br/><br/>
 Hi, I'm Andrés Vásquez .
-<p>I am currently an engineering student at the <a href="https://www.udea.edu.co">University of Antioquia</a>.</p>
-<p>I'm the founder and CEO of <a href="https://www.anvargear.co">AnvarGear.CO</a>.</p>
-<p>And in this quarantine by Covid-19, in the #CodexUdeA community we have accepted to perform the JavaScript30 challenge ... And this is my advance.</p>
+<p>I am currently an engineering student at the <a href="https://www.udea.edu.co">University of Antioquia</a>. <br/> I'm the founder and CEO of <a href="https://www.anvargear.co">AnvarGear.CO</a>.<br/>
+<br/> And in this quarantine by Covid-19, in the #CodexUdeA community we have accepted to perform the JavaScript30 challenge ... And this is my advance.</p>
 
 <span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> ls -la challenges<br/><br/>
 
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 01 00:06 <a href="01-JavaScript_Drum_Kit/">Day 1: JavaScript Drum Kit</a>
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 02 07:30 <a href="02-js-and-css-clock/">Day 2: JavaScript & CSS Clock</a>
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 02 07:30 <a href="03-css-variables/">Day 3: CSS Variables</a>
+drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 02 07:30 <a href="04-array-cardio-day-1/">Day 4: Array Cardio day 1</a>
 
 
 <span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> cat twitter.txt && cat GitHub.txt<br/><br/>
