@@ -1,6 +1,8 @@
 # JavaScript30
 [CODEX] 30 Day Vanilla JS Challenge 
 
+![Send a Tweet](https://github.com/VasquezLab/JavaScript30/workflows/Send%20a%20Tweet/badge.svg?event=push)
+
 ### First Day:
 Just using CSS and JavaScript vanilla let make a drum kit.
 

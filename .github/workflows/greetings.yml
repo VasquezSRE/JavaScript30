@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: ethomson/send-tweet-action@v1
         with:
-          status: "New challenge completed from #CodexJavaScript30 @wesbos @ManuCastrillonM !"
+          status: "I have completed a new challenge  \" ${{ github.event.head_commit.message }} \" #CodexJavaScript30 @wesbos @ManuCastrillonM https://vasquezlab.github.io/JavaScript30/"
           consumer-key: le2dxNv5cffvRpyC9hd915Inl
           consumer-secret: REt9LyFyy1C9I1D6Furl5OW3zbZkdTFbG42nYu7blNFBFGdH7n
           access-token: 197966686-kc53FZx3OPMq9eVqVxZTYrONmIPNIWr7cndFgsi9
