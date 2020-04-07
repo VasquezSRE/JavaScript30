@@ -17,3 +17,11 @@ Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/03-css-varia
 ### Fourth  Day:
 Array Cardio day 1
 Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/04-array-cardio-day-1/) 
+
+### Fifth  Day:
+Flex panel gallery
+Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/05-flex-panel-gallery/)
+ 
+### Sixth  Day:
+Type Ahead
+Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/05-type-ahead/) 
