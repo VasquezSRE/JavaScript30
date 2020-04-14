@@ -27,3 +27,7 @@ Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/05-flex-pane
 ### Sixth  Day:
 Type Ahead
 Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/05-type-ahead/) 
+
+### Seventh  Day:
+Array Cardio day 2
+Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/07-array-cardio-day-2/) 
