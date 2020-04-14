@@ -10,7 +10,7 @@ jobs:
       - uses: ethomson/send-tweet-action@v1
         with:
           status: "I have completed a new challenge  \" ${{ github.event.head_commit.message }} \" #CodexJavaScript30 @wesbos @ManuCastrillonM"
-          consumer-key: le2dxNv5cffvRpyC9hd915Inl
-          consumer-secret: REt9LyFyy1C9I1D6Furl5OW3zbZkdTFbG42nYu7blNFBFGdH7n
-          access-token: 197966686-kc53FZx3OPMq9eVqVxZTYrONmIPNIWr7cndFgsi9
-          access-token-secret: 7bDxzXcLRfCsMbdlAwLrVL4h2nbWCPY4Z3MAryNqpRju6
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
