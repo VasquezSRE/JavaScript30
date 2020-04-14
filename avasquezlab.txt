@@ -11,6 +11,8 @@ drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 03 22:35 <a href="03-css-variabl
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 04 20:55 <a href="04-array-cardio-day-1/">Day 4: Array Cardio day 1</a>
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 05 22:15 <a href="05-flex-panel-gallery/">Day 5: Flex Panel Gallery</a>
 drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 06 23:45 <a href="06-type-ahead/">Day 6: Type Ahead</a>
+drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 07 22:27 <a href="07-array-cardio-day-2/">Day 7: Array Cardio day 2</a>
+drwxr-xr-x  2 avasquezlab avasquezlab  4096 mar 08 18:51 <a href="08-fun-with-html5-canvas/">Day 8: Fun with HTML5 canvas</a>
 
 
 <span id="a">avasquez@Stoßtruppen</span>:<span id="b">~</span><span id="c">$</span> cat twitter.txt && cat GitHub.txt<br/><br/>

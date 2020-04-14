@@ -5,7 +5,6 @@
 
 ### First Day:
 Just using CSS and JavaScript vanilla let make a drum kit.
-
 Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/01-JavaScript_Drum_Kit/) 
 
 ### Second Day:
@@ -31,3 +30,7 @@ Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/05-type-ahea
 ### Seventh  Day:
 Array Cardio day 2
 Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/07-array-cardio-day-2/) 
+
+### Eighth  Day:
+Fun with HTML5 Canvas
+Show in action: [DEMO ->](https://vasquezlab.github.io/JavaScript30/08-fun-with-html5-canvas/) 
