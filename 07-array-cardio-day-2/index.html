@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Array Cardio Day 1</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon-16x16.png">
+    <link rel="manifest" href="../assets/site.webmanifest">
+</head>
+<body>
+<div class="container">
+    <section class="main span12 text-center">
+        <h1>Example of how to use the console with JavaScript</h1>
+        <h2>Is DevTools open?</h2>
+        <h3 id="devtools-state"></h3>
+        <h4 id="devtools-orientation"></h4>
+        <div class="instruction">Try it out by opening DevTools</div>
+    </section>
+</div>
+<script src="scripts.js"></script>
+<script src="detect.js"></script>
+<script type="module">
+    const stateElement = document.querySelector('#devtools-state');
+    const orientationElement = document.querySelector('#devtools-orientation');
+
+    stateElement.textContent = window.devtools.isOpen ? 'yes' : 'no';
+    orientationElement.textContent = window.devtools.orientation ? window.devtools.orientation : '';
+
+    window.addEventListener('devtoolschange', event => {
+        stateElement.textContent = event.detail.isOpen ? 'yes' : 'no';
+        orientationElement.textContent = event.detail.orientation ? event.detail.orientation : '';
+    });
+</script>
+</body>
+</html>
